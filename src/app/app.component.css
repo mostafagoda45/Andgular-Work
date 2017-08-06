@@ -1,0 +1,12 @@
+th {
+    font-size: 30px;
+}
+
+tr:nth-child(odd) {
+    background-color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
